@@ -31,12 +31,14 @@ A list of frontend development resources collected.
 			+ [flux](https://github.com/facebook/flux)
 			+ [immutable.js](https://facebook.github.io/immutable-js/)
 		+ [Angularjs](https://angularjs.org/)
-		+ [vue](http://vuejs.org/ http://cn.vuejs.org/)
+		+ [vue](http://vuejs.org/)
+		+ [vuecn](http://cn.vuejs.org/)
 		+ [Polymer](https://www.polymer-project.org/)
 		+ [Backbone.js](http://backbonejs.org/)
 		+ [Backbone.js document-cn](http://www.css88.com/doc/backbone/) backbone中文文档
 		+ [avalon](http://avalonjs.github.io/)
 		+ [knockoutjs](http://knockoutjs.com/)
+		+ [omi](http://www.omijs.org)
 	+ js file/module loader
 		+ [Sea.js](http://seajs.org/)
 		+ [RequireJS](http://www.requirejs.org/)
